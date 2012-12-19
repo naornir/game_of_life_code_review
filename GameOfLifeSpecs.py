@@ -1,3 +1,6 @@
+
+# review: PEP-8: separate builtin python imports from source code imports by a single blank line:
+# http://www.python.org/dev/peps/pep-0008/#imports
 import unittest
 import pdb
 from GameOfLife import GameOfLife
